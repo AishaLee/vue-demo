@@ -1,6 +1,7 @@
 # sell-demo
 
 > A Vue.js project
+> 慕课学习作业
 
 ## Build Setup
 
